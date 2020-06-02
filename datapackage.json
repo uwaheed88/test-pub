@@ -1,7 +1,17 @@
 {
+  "resources": [
+    {
+      "path": "http://127.0.0.1:5000/dataset/412f58de-22bc-44c5-8fe7-8f62cae97de1/resource/9fda420a-bcda-4825-9bc3-c9eb506bf0ce/download/dailyprices_csv.csv", 
+      "title": "dailyprices_csv.csv", 
+      "name": "dailyprices-csv-csv", 
+      "format": "CSV"
+    }
+  ], 
   "name": "test-pub", 
   "license": {
-    "type": "cc-by"
+    "url": "http://www.opendefinition.org/licenses/cc-by", 
+    "type": "cc-by", 
+    "title": "Creative Commons Attribution"
   }, 
   "title": "test pub"
 }
